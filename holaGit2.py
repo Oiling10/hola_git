@@ -1,1 +1,1 @@
-print("Hola Git 22222!")
+print("Hola Git 2")
